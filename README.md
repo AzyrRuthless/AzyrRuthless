@@ -12,7 +12,7 @@ I'm a beginner developer from Indonesia who loves tinkering with code and explor
 ---
 
 > **My profile picture is artwork created by [Faustine Dumontier](https://www.instagram.com/faustinedumontier_art).**  
-> **All copyright for this work belongs to Faustine Dumontier.**  
+> **All copyright belongs to Faustine Dumontier.**  
 > **Be sure to visit Faustine Dumontier's Instagram to discover more amazing creations!**
 
 ---
