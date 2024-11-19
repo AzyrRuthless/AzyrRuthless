@@ -1,6 +1,6 @@
 # Hi there, I'm AzyrRuthless 👋
 
-I'm a beginner developer from Indonesia who loves tinkering with code and exploring new programming languages. Feel free to check out my journey and share any tips or feedback!
+I'm a beginner developer(?) from Indonesia who loves tinkering with code and exploring new programming languages. Feel free to check out my journey and share any tips or feedback!
 
 ---
 
