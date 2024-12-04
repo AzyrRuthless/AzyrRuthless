@@ -1,13 +1,13 @@
 # Hi there, I'm AzyrRuthless 👋
 
-I'm a beginner developer(?) from Indonesia who loves tinkering with code and exploring new programming languages. Feel free to check out my journey and share any tips or feedback!
+I'm a beginner dev? (not sure about this one lmao) from Indonesia who loves tinkering with code and exploring new programming languages. Feel free to check out my journey and share any tips or feedback!
 
 ---
 
 ## 🚀 About Me
 - 🌱 Currently learning **Python**, **Shell scripting**, **JavaScript**, **Ruby**, and **C#**  
 - 📫 You can reach me at: [16w2ntg2q@relay.firefox.com](mailto:16w2ntg2q@relay.firefox.com)  
-- ⚡ Fun fact: I enjoy solving puzzles and playing chess  
+- ⚡ Fun fact: I enjoy solving puzzle, playing games, listening to music & watching sum movies
 
 ---
 
